@@ -91,6 +91,17 @@ h6 {
 	  height: 120px;
   }
 
+  .space-links{
+	  padding-bottom: 30px;
+  }
+
+  .style-links {
+	  width: 80%;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  font-weight: 600;
+  }
+
   @media(max-width: 768px) {
       .logo-perfil{
           width: 80px;
