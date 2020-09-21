@@ -102,6 +102,12 @@ h6 {
 	  font-weight: 600;
   }
 
+  .iconTitle {
+	  width: 1.33em;
+	  height: 1.33em;
+	  vertical-align: -25%;
+  }
+
   @media(max-width: 768px) {
       .logo-perfil{
           width: 80px;
