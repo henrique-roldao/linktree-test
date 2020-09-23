@@ -10,7 +10,7 @@ Bom resolvi fazer o linktree personalizado quando surgiu a demanda na empresa na
 #
 
 ### Demonstração
-[Linktree - Hugs](http://hugsagencia.com.br/linktree/)|
+[Linktree - Hugs](http://hugsagencia.com.br/linktree/)
 <p align="left">
   <img src="./assets/screenshots/linktree-img.jpg" width="350" title="Demonstração do Linktree">
 </p>
