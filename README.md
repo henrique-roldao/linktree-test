@@ -10,3 +10,6 @@ Bom resolvi fazer o linktree personalizado quando surgiu a demanda na empresa na
 #
 
 ### Demonstração
+<p align="center">
+  <img src="./assets/screenshots/linktree-img.jpeg" width="350" title="Demonstração do Linktree">
+</p>
